@@ -1,5 +1,3 @@
-# GIT REPO FOR MY WEBSITE
+# My website
 
-## subheader
-
-Text
+## ideas
